@@ -16,7 +16,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://github.com/G0RANI/django-react.git",
   "eslintConfig": {
     "extends": "react-app"
   },
