@@ -1,4 +1,4 @@
 # django-react
 
-###Information
+### Information
 * backend는 master, frontend는 frontend branch
