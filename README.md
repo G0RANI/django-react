@@ -5,5 +5,5 @@
 * python : 3.8.1
 * django : 3.0.2
 * rest-framework
-* react : 16.12.0
 * node : 8.16.2
+* react : 16.12.0
